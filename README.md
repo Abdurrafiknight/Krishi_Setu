@@ -117,4 +117,15 @@ Krishi-Setu/
 
 **Status:** In Development
 
-This repository will contain the source code, database scripts, documentation, and other resources related to the Krishi Setu project.
+This repository will contain the source code, database scripts, documentation, and other resources related to the Krishi Setu project
+
+<img width="817" height="577" alt="Screenshot 2026-09-04 221807" src="https://github.com/user-attachments/assets/051962a0-e767-4850-9d7e-5b43a8f90b2d" />
+
+<img width="968" height="647" alt="Screenshot 2026-09-04 222029" src="https://github.com/user-attachments/assets/3cf37239-bd78-4566-bd71-914c9f278f74" />
+<img width="990" height="653" alt="Screenshot 2026-09-04 222012" src="https://github.com/user-attachments/assets/374473be-17e2-4d92-97f8-92bfc39e705b" />
+<img width="1056" height="667" alt="Screenshot 2026-09-04 221931" src="https://github.com/user-attachments/assets/d2f5a760-19ef-4206-b335-b01734d01a64" />
+<img width="1086" height="688" alt="Screenshot 2026-09-04 221908" src="https://github.com/user-attachments/assets/abb383cd-f4fe-4cd0-943d-9ab25c2fab8f" />
+<img width="961" height="632" alt="Screenshot 2026-09-04 221848" src="https://github.com/user-attachments/assets/94a8b34d-eca6-49c1-9e60-18f3a823846e" />
+<img width="677" height="606" alt="Screenshot 2026-09-04 221819" src="https://github.com/user-attachments/assets/7a1eb1a4-b101-4da6-9613-f366f3e1f9f7" />
+
+
